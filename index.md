@@ -76,8 +76,7 @@ This is an example of a Project or Chapter Page.
 <p>Further information is provided in the Top 10 Privacy Risks tab.</p>
 <h2 id="contact_us">Contact us</h2>
 <h2 id="contact_us">Contact us</h2>
-<p>{{Template:Contact</p></td>
-<p>{{Template:Contact</p></td>
+
 Stefan Burgmair <a href="mailto:Stefan.Burgmair@owasp.org">@</a></p>
 <h2 id="quick_download">Quick Download</h2>
 <ul>
