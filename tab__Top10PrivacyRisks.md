@@ -1,5 +1,5 @@
 ---
-title: Top 10 Privacy Risks
+title: Top10PrivacyRisks
 layout:  null
 tab: true
 order: 2
