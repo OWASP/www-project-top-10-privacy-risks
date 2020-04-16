@@ -1,5 +1,5 @@
 ---
-title: Top10Privacy
+title: TopPrivacy
 displaytext: Top 10 Privacy Risks
 layout: null
 tab: true
