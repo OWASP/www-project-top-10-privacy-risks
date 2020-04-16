@@ -3,9 +3,8 @@
 layout: col-sidebar
 title: OWASP Top 10 Privacy Risks
 tags: example-tag
-level: 0
+level: 3
 type: documentation
-auto-migrated: 1
 
 ---
 
