@@ -13,12 +13,12 @@
 * [2019] Work on v2.0 started
 
 ### External Links
-<a href="https://www.youtube.com/watch?v=mO7bjmUAq-Q">Video from IPEN workshop at Berlin state parliament</a><br />
-<a href="https://www.youtube.com/watch?v=6SEdnWlSZyk">Video from panel discussion at CPDP 2015 in Brussels</a><br />
-<a href="https://www.youtube.com/watch?v=WXSZiWNyPZA">Video from presentation at AppSec EU 2015</a><br />
-<a href="http://www.oecd.org/sti/ieconomy/2013-oecd-privacy-guidelines.pdf">OECD Privacy Guidelines</a><br />
-<a href="https://secure.edps.europa.eu/EDPSWEB/edps/EDPS/IPEN">Internet Privacy Engineering Network - IPEN</a><br />
-<a href="https://privacyscore.org/">Check your website with PRIVACYSCORE</a>
+[Video from IPEN workshop at Berlin state parliament](https://www.youtube.com/watch?v=mO7bjmUAq-Q)<br />
+[Video from panel discussion at CPDP 2015 in Brussels](https://www.youtube.com/watch?v=6SEdnWlSZyk)<br />
+[Video from presentation at AppSec EU 2015](https://www.youtube.com/watch?v=WXSZiWNyPZA)<br />
+[OECD Privacy Guidelines](http://www.oecd.org/sti/ieconomy/2013-oecd-privacy-guidelines.pdf)><br />
+[Internet Privacy Engineering Network - IPEN](https://secure.edps.europa.eu/EDPSWEB/edps/EDPS/IPEN)<br />
+[Check your website with PRIVACYSCORE](https://privacyscore.org/)
 
 <!--### Downloads or Social Links
 * [Download](#)
