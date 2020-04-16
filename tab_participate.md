@@ -8,10 +8,10 @@ tags: example-tag
 
 ## Participate
 Some ways you can help:
-*Discuss with us in the mailing list or Google docs
-*Tell your colleagues and friends about the project
-*Provide feedback (feel free to contact us)
-*Apply the results in practice to improve web application privacy
+* Discuss with us in the mailing list or Google docs
+* Tell your colleagues and friends about the project
+* Provide feedback (feel free to contact us)
+* Apply the results in practice to improve web application privacy
 
 Sign up to our [mailing list](https://groups.google.com/a/owasp.org/forum/#!forum/top-10-privacy-risks-project/join) to stay informed.
 
