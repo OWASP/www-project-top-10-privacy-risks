@@ -3,7 +3,7 @@ title: TopPrivacy
 displaytext: Top 10 Privacy Risks
 layout: null
 tab: true
-order: 2
+order: 1
 tags: example-tag
 ---
 
