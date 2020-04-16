@@ -8,6 +8,7 @@ tags: example-tag
 Currently project documentation is available in English and German. If you are interested in helping to translate to another language, please contact the project leaders.
 ## German
 ### Top 10 Datenschutzrisiken
+
 |Nr.|Titel|Häufigkeit|Schaden|Beschreibung|
 |---|------|-----|-----|------------------|
 |P1 |Schwachstellen in Webanwendungen|Hoch|Sehr hoch|Schwachstellen sind ein zentrales Problem in jedem System, mit dem sensible Nutzerdaten erhoben, verarbeitet und genutzt werden. Bestehen Fehler im Design oder in der Implementierung der Applikation, werden Probleme nicht entdeckt oder Sicherheitspatches nicht unverzüglich eingespielt, führt dies mit hoher Wahrscheinlichkeit zu einer Verletzung des Persönlichkeitsrechts. Dieses Risiko wird bereits in anderen Projekten behandelt, wie der OWASP Top 10 Liste der häufigsten Sicherheitsrisiken für Webanwendungen. 
