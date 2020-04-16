@@ -8,6 +8,7 @@ tags: example-tag
 ---
 
 ## Top 10 Privacy Risks
+Version 1.0 of the OWASP Top 10 Privacy Risks list from 2014. Further information and related countermeasures are provided in this PDF document.
 
 No. |Title|Frequency|Impact|Description|
 ----|-----|-----|-----|----------------|
