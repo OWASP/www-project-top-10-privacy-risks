@@ -18,7 +18,7 @@ Sign up to our [mailing list](https://groups.google.com/a/owasp.org/forum/#!foru
 ## Discussions and Documentation
 To avoid overwriting issues we use Google Docs for our discussions.
 ### Ongoing
-[Impact Rating 2020](https://docs.google.com/document/d/1VuusvZnhHpWvmPFeAovM68iB_Do3XFZCH2EsITGuAKg/edit)
+[Impact Rating 2020](https://docs.google.com/document/d/1VuusvZnhHpWvmPFeAovM68iB_Do3XFZCH2EsITGuAKg/edit)<br>
 [Privacy Risk Candidate List 2019/2020](https://docs.google.com/document/d/1eEU7TsoaPG56-zhJi4bi1SD53Jto84GQ8dDGTajL8TY/edit)<br>
 [Method Update 2019](https://docs.google.com/document/d/1AlAg2cybvo5VX-frzF5uHeAcib3X2rTAA2p97XH8fHw/edit)
 ### Closed discussions and documents
