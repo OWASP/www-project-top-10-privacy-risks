@@ -1,6 +1,7 @@
 ---
-title: Top10PrivacyRisks
-layout:  null
+title: Top10Privacy
+displaytext: Top 10 Privacy Risks
+layout: null
 tab: true
 order: 2
 tags: example-tag
