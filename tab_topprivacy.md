@@ -9,8 +9,8 @@ tags: example-tag
 
 ## Top 10 Privacy Risks
 
-No.|Title|Frequency|Impact|Description|
----|-----|----|----|------------------|
+No. |Title|Frequency|Impact|Description|
+----|-----|-----|-----|----------------|
 P1 |Web Application Vulnerabilities|||Vulnerability is a key problem in any system that guards or operates on sensitive user data. Failure to suitably design and implement an application, detect a problem or promptly apply a fix (patch) is likely to result in a privacy breach. This risk also encompasses the OWASP Top 10 List of web application vulnerabilities and the risks resulting from them.
 P2 |Operator-sided Data Leakage|||Failure to prevent the leakage of any information containing or related to user data, or the data itself, to any unauthorized party resulting in loss of data confidentiality. Introduced either due to intentional malicious breach or unintentional mistake e.g. caused by insufficient access management controls, insecure storage, duplication of data or a lack of awareness.
 P3 |Insufficient Data Breach Response|||Not informing the affected persons (data subjects) about a possible breach or data leak, resulting either from intentional or unintentional events; failure to remedy the situation by fixing the cause; not attempting to limit the leaks.
