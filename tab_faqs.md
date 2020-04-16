@@ -22,4 +22,5 @@ Privacy risks may have serious consequences for an organisation, such as:
 * failure of a project or completed system;
 * withdrawal of support from key supporting organisations due to perceived privacy harms; and/ or
 * failure to comply with the law, leading to enforcement action from the regulator or compensation claims from individuals.
-<br>Source of privacy risks: ICO Handbook on Privacy Impact Assessment (PIA)
+
+Source of privacy risks: ICO Handbook on Privacy Impact Assessment (PIA)
