@@ -1,7 +1,7 @@
 ### Project Information
 * Version 1.0
+* Lab Project
 * Documentation Project
-<!--* Lab Project-->
 
 ### Mailing List
 * [Join Google Group](https://groups.google.com/a/owasp.org/forum/#!forum/top-10-privacy-risks-project/join)
