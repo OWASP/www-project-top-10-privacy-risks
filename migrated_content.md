@@ -124,344 +124,113 @@ document](https://www.owasp.org/images/0/0a/OWASP_Top_10_Privacy_Countermeasures
 </tr>
 
 <tr>
-
-
-P1
-
-</td>
-
-
-Web Application Vulnerabilities
-
-</td>
-
-<td bgcolor="orange">
-
-High
-
-</td>
-
-<td bgcolor="red">
-
-Very high
-
-</td>
-
-
-Vulnerability is a key problem in any system that guards or operates on
+<td>P1</td>
+<td>Web Application Vulnerabilities</td>
+<td bgcolor="orange">High</td>
+<td bgcolor="red">Very high</td>
+<td>Vulnerability is a key problem in any system that guards or operates on
 sensitive user data. Failure to suitably design and implement an
 application, detect a problem or promptly apply a fix (patch) is likely
 to result in a privacy breach. This risk also encompasses the OWASP Top
 10 List of web application vulnerabilities and the risks resulting from
-them.
-
-</td>
-
+them.</td>
 </tr>
 
 <tr>
-
-
-P2
-
-</td>
-
-
-Operator-sided Data Leakage
-
-</td>
-
-<td bgcolor="orange">
-
-High
-
-</td>
-
-<td bgcolor="red">
-
-Very high
-
-</td>
-
-
-Failure to prevent the leakage of any information containing or related
+<td>P2</td>
+<td>Operator-sided Data Leakage</td>
+<td bgcolor="orange">High</td>
+<td bgcolor="red">Very high</td>
+<td>Failure to prevent the leakage of any information containing or related
 to user data, or the data itself, to any unauthorized party resulting in
 loss of data confidentiality. Introduced either due to intentional
 malicious breach or unintentional mistake e.g. caused by insufficient
 access management controls, insecure storage, duplication of data or a
-lack of awareness.
-
-</td>
-
+lack of awareness.</td>
 </tr>
 
 <tr>
-
-
-P3
-
-</td>
-
-
-Insufficient Data Breach Response
-
-</td>
-
-<td bgcolor="orange">
-
-High
-
-</td>
-
-<td bgcolor="red">
-
-Very high
-
-</td>
-
-
-Not informing the affected persons (data subjects) about a possible
+<td>P3</td>
+<td>Insufficient Data Breach Response</td>
+<td bgcolor="orange">High</td>
+<td bgcolor="red">Very high</td>
+<td>Not informing the affected persons (data subjects) about a possible
 breach or data leak, resulting either from intentional or unintentional
 events; failure to remedy the situation by fixing the cause; not
-attempting to limit the leaks.
-
-</td>
-
+attempting to limit the leaks.</td>
 </tr>
 
 <tr>
-
-
-P4
-
-</td>
-
-
-Insufficient Deletion of Personal Data
-
-</td>
-
-<td bgcolor="red">
-
-Very high
-
-</td>
-
-<td bgcolor="orange">
-
-High
-
-</td>
-
-
-Failure to effectively and/or timely delete personal data after
-termination of the specified purpose or upon request.
-
-</td>
-
+<td>P4</td>
+<td>Insufficient Deletion of Personal Data</td>
+<td bgcolor="red">Very high</td>
+<td bgcolor="orange">High</td>
+<td>Failure to effectively and/or timely delete personal data after
+termination of the specified purpose or upon request.</td>
 </tr>
 
 <tr>
-
-
-P5
-
-</td>
-
-
-Non-transparent Policies, Terms and Conditions
-
-</td>
-
-<td bgcolor="red">
-
-Very high
-
-</td>
-
-<td bgcolor="orange">
-
-High
-
-</td>
-
-
-Not providing sufficient information to describing how data is
+<td>P5</td>
+<td>Non-transparent Policies, Terms and Conditions</td>
+<td bgcolor="red">Very high</td>
+<td bgcolor="orange">High</td>
+<td>Not providing sufficient information to describing how data is
 processed, such as its collection, storage, and processing. Failure to
 make this information easily-accessible and understandable for
-non-lawyers.
-
-</td>
-
+non-lawyers.</td>
 </tr>
 
 <tr>
-
-
-P6
-
-</td>
-
-
-Collection of data not required for the primary purpose
-
-</td>
-
-<td bgcolor="red">
-
-Very high
-
-</td>
-
-<td bgcolor="orange">
-
-High
-
-</td>
-
-
-Collecting descriptive, demographic or any other user-related data that
+<td>P6</td>
+<td>Collection of data not required for the primary purpose</td>
+<td bgcolor="red">Very high</td>
+<td bgcolor="orange">High</td>
+<td>Collecting descriptive, demographic or any other user-related data that
 are not needed for the purposes of the system. Applies also to data for
-which the user did not provide consent.
-
-</td>
-
+which the user did not provide consent.</td>
 </tr>
 
 <tr>
-
-
-P7
-
-</td>
-
-
-Sharing of Data with Third Party
-
-</td>
-
-<td bgcolor="orange">
-
-High
-
-</td>
-
-<td bgcolor="orange">
-
-High
-
-</td>
-
-
-Providing user data to any third-party, without obtaining the user’s
+<td>P7</td>
+<td>Sharing of Data with Third Party</td>
+<td bgcolor="orange">High</td>
+<td bgcolor="orange">High</td>
+<td>Providing user data to any third-party, without obtaining the user’s
 consent. Sharing results either due to transfer or exchanging for a
 monetary compensation or otherwise due to inappropriate use of
 third-party resources included in the web site like widgets (e.g. maps,
-social networks buttons), analytics or web bugs (e.g. beacons).
-
-</td>
-
+social networks buttons), analytics or web bugs (e.g. beacons).</td>
 </tr>
 
 <tr>
-
-
-P8
-
-</td>
-
-
-Outdated personal data
-
-</td>
-
-<td bgcolor="orange">
-
-High
-
-</td>
-
-<td bgcolor="red">
-
-Very high
-
-</td>
-
-
-The use of outdated, incorrect or bogus user data. Failure to update or
-correct the data.
-
-</td>
-
+<td>P8</td>
+<td>Outdated personal data</td>
+<td bgcolor="orange">High</td>
+<td bgcolor="red">Very high</td>
+<td>The use of outdated, incorrect or bogus user data. Failure to update or
+correct the data.</td>
 </tr>
 
 <tr>
-
-
-P9
-
-</td>
-
-
-Missing or insufficient Session Expiration
-
-</td>
-
-<td bgcolor="yellow">
-
-Medium
-
-</td>
-
-<td bgcolor="red">
-
-Very high
-
-</td>
-
-
-Failure to effectively enforce session termination. May result in
+<td>P9</td>
+<td>Missing or insufficient Session Expiration</td>
+<td bgcolor="yellow">Medium</td>
+<td bgcolor="red">Very high</td>
+<td>Failure to effectively enforce session termination. May result in
 collection of additional user-data without the user’s consent or
-awareness.
-
-</td>
-
+awareness.</td>
 </tr>
 
 <tr>
-
-
-P10
-
-</td>
-
-
-Insecure Data Transfer
-
-</td>
-
-<td bgcolor="yellow">
-
-Medium
-
-</td>
-
-<td bgcolor="red">
-
-Very high
-
-</td>
-
-
-Failure to provide data transfers over encrypted and secured channels,
+<td>P10</td>
+<td>Insecure Data Transfer</td>
+<td bgcolor="yellow">Medium</td>
+<td bgcolor="red">Very high</td>
+<td>Failure to provide data transfers over encrypted and secured channels,
 excluding the possibility of data leakage. Failure of enforcing
 mechanisms limiting the leak surface, e.g. allowing to infer any user
-data out of the mechanics of Web application operation.
-
-</td>
-
+data out of the mechanics of Web application operation.</td>
 </tr>
-
 </table>
 
 Note: The values between 0 to 3 used for frequency and impact rating
