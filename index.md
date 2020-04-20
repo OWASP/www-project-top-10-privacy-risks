@@ -25,7 +25,7 @@ The OWASP Top 10 Privacy Risks Project provides a top 10 list for privacy risks 
     P8    Outdated personal data 
     P9    Missing or Insufficient Session Expiration 
     P10   Insecure Data Transfer 
-</pre></code>
+</code></pre>
 Detailed information is provided in the Top 10 Privacy Risks tab.
 
 <h2 id="quick_download">Quick Download</h2>
