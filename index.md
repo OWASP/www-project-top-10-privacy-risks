@@ -36,7 +36,7 @@ Detailed information is provided in the Top 10 Privacy Risks tab.
 <li><a href="/www-pdf-archive/Presentation_HowToBoostPrivacy_IAPP_Intensive_2016.pdf">Presentation of countermeasures from IAPP Data Protection Intensive 2016</a></li>
 </ul>
     </td>
-    <td>![Picture]("124px-Top_10_Risks.png")</td>
+    <td><img src="124px-Top_10_Risks.png"/></td>
     </tr></table>
     
 <h2 id="licensing">Licensing</h2>
