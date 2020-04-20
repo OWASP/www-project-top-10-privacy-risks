@@ -29,7 +29,7 @@ Detailed information is provided in the Top 10 Privacy Risks tab.
 <h2 id="quick_download">Quick Download</h2>
 <ul>
 <li><a href="/www-pdf-archive/OWASP_Top_10_Privacy_Countermeasures_v1.0.pdf">Top 10 Privacy Risks Countermeasures v1.0 (PDF)</a></li>
-<li><a href="https://www.owasp.org/images/d/df/OWASP_Top10PrivacyRisks_20150529.pptx">Top 10 Privacy Risks Presentation (PPTX)</a></li>
+<li><a href="OWASP_Top10PrivacyRisks_20150529.pptx">Top 10 Privacy Risks Presentation (PPTX)</a></li>
 <li><a href="/www-pdf-archive/OWASPTop10PrivacyRisks_20141209.pdf">Results presentation at German OWASP Day 2014</a></li>
 <li><a href="/www-pdf-archive/Top10PrivacyRisks_IAPP_Summit_2015.pdf">Presentation from IAPP Global Privacy Summit 2015</a></li>
 <li><a href="/www-pdf-archive/Presentation_HowToBoostPrivacy_IAPP_Intensive_2016.pdf">Presentation of countermeasures from IAPP Data Protection Intensive 2016</a></li>
