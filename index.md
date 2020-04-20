@@ -14,7 +14,7 @@ The OWASP Top 10 Privacy Risks Project provides a top 10 list for privacy risks 
 <table width="100%"><tr><td>
 
 <h2>Top 10 Privacy Risks</h2>
-
+<pre><code>
     P1    Web Application Vulnerabilities 
     P2    Operator-sided Data Leakage 
     P3    Insufficient Data Breach Response 
@@ -25,7 +25,7 @@ The OWASP Top 10 Privacy Risks Project provides a top 10 list for privacy risks 
     P8    Outdated personal data 
     P9    Missing or Insufficient Session Expiration 
     P10   Insecure Data Transfer 
-
+</pre></code>
 Detailed information is provided in the Top 10 Privacy Risks tab.
 
 <h2 id="quick_download">Quick Download</h2>
