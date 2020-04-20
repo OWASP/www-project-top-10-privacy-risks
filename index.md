@@ -11,7 +11,7 @@ type: documentation
 
 The OWASP Top 10 Privacy Risks Project provides a top 10 list for privacy risks in web applications and related countermeasures. It covers technological and organizational aspects that focus on real-life risks, not just legal issues. The Project provides tips on how to implement privacy by design in web applications with the aim of helping developers and web application providers to better understand and improve privacy. The list uses the OECD Privacy Guidelines as a framework and can also be used to assess privacy risks associated with specific web applications.
 
-<table width="100%"><tr><td>
+<table width="100%" border="0" bgcolor="white"><tr><td>
 
 <h2>Top 10 Privacy Risks</h2>
 <pre><code>
