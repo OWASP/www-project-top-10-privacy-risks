@@ -42,5 +42,5 @@ Detailed information is provided in the Top 10 Privacy Risks tab.
 <p>OWASP Top 10 Privacy Risks Project is free to use. It is licensed under the Creative Commons CC-BY-SA v3.0 License.</p>
 
 </td>
-    <td><img src="124px-Top_10_Risks.png"/></td>
+    <td valign="top"><img src="124px-Top_10_Risks.png" alt="Flyer"/></td>
     </tr></table>
