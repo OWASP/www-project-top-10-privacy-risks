@@ -37,9 +37,10 @@ Detailed information is provided in the Top 10 Privacy Risks tab.
 <li><a href="/www-pdf-archive/Top10PrivacyRisks_IAPP_Summit_2015.pdf">Presentation from IAPP Global Privacy Summit 2015</a></li>
 <li><a href="/www-pdf-archive/Presentation_HowToBoostPrivacy_IAPP_Intensive_2016.pdf">Presentation of countermeasures from IAPP Data Protection Intensive 2016</a></li>
 </ul>
-    </td>
-    <td><img src="124px-Top_10_Risks.png"/></td>
-    </tr></table>
     
 <h2 id="licensing">Licensing</h2>
 <p>OWASP Top 10 Privacy Risks Project is free to use. It is licensed under the Creative Commons CC-BY-SA v3.0 License.</p>
+
+</td>
+    <td><img src="124px-Top_10_Risks.png"/></td>
+    </tr></table>
