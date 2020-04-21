@@ -124,6 +124,7 @@ Currently project documentation is available in English and German. If you are i
 |P10|Unsichere Datenübertragung|Mittel|Sehr hoch|Die Datenübermittlung erfolgt nicht auf verschlüsselten und sicheren Kanälen, so dass ein unautorisierter Zugriff nicht verhindert wird. Mechanismen zum Verringern der Angriffsfläche, werden nicht umgesetzt. Hierzu gehört es zu verhindern, dass durch das Verhalten der Webanwendung Rückschlüsse auf Nutzerdaten möglich sind.-->
 
 ### Flyer
+[Infoflyer in German](Top_10_Privacy_Risks_German.png)
 
 ## Japanese
 [Link to slidedeck](https://speakerdeck.com/owaspjapan/introducing-owasp-top10-privacy-risks-number-owasp-night-21th)
