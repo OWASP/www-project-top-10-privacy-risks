@@ -15,14 +15,14 @@ Currently project documentation is available in English and German. If you are i
 <td bgcolor="#D8D8D8" width="70"><b>Typ</b></td>
 <td bgcolor="#D8D8D8" width="160"><b>Titel</b></td>
 <td bgcolor="#D8D8D8" width="120"><b>Häufigkeit</b></td>
-<td bgcolor="#D8D8D8" width="105"><b>Schaden</b></td>
+<td bgcolor="#D8D8D8" width="110"><b>Schaden</b></td>
 <td bgcolor="#D8D8D8"><b>Beschreibung</b></td>
 </tr>
 
 <tr>
 <td>P1</td>
 <td>:woman_technologist:</td>
-<td>Schwachstellen in Webanwendungen</td>
+<td>Schwachstellen in Web-Anwendungen</td>
 <td bgcolor="orange">Hoch</td>
 <td bgcolor="red">Sehr hoch</td>
 <td>Schwachstellen sind ein zentrales Problem in jedem System, mit dem sensible Nutzerdaten erhoben, verarbeitet und genutzt werden. Bestehen Fehler im Design oder in der Implementierung der Applikation, werden Probleme nicht entdeckt oder Sicherheitspatches nicht unverzüglich eingespielt, führt dies mit hoher Wahrscheinlichkeit zu einer Verletzung des Persönlichkeitsrechts. Dieses Risiko wird bereits in anderen Projekten behandelt, wie der OWASP Top 10 Liste der häufigsten Sicherheitsrisiken für Webanwendungen.</td>
@@ -49,7 +49,7 @@ Currently project documentation is available in English and German. If you are i
 <tr>
 <td>P4</td>
 <td>:woman_technologist::man_office_worker:</td>
-<td>Unzureichende Löschung personenbezogener Daten</td>
+<td>Unzureichende Löschung personen-bezogener Daten</td>
 <td bgcolor="red">Sehr hoch</td>
 <td bgcolor="orange">Hoch</td>
 <td>Personenbezogene Daten werden nicht termingerecht oder nicht effektiv nach Zweckablauf bzw. aufgrund einer Löschanfrage gelöscht.</td>
@@ -58,7 +58,7 @@ Currently project documentation is available in English and German. If you are i
 <tr>
 <td>P5</td>
 <td>:man_office_worker:</td>
-<td>Intransparente Nutzungsbedingungen</td>
+<td>Intransparente Nutzungs-bedingungen</td>
 <td bgcolor="red">Sehr hoch</td>
 <td bgcolor="orange">Hoch</td>
 <td>Informationen zur Datenverarbeitung wie Erhebung, Speicherung und Nutzung personenbezogener Daten sind unzureichend. Diese Informationen sind nicht leicht zugänglich oder für juristische Laien nicht verständlich aufbereitet.</td>
@@ -85,7 +85,7 @@ Currently project documentation is available in English and German. If you are i
 <tr>
 <td>P8</td>
 <td>:woman_technologist::man_office_worker:</td>
-<td>Veraltete personenbezogene Daten</td>
+<td>Veraltete personen-bezogene Daten</td>
 <td bgcolor="orange">Hoch</td>
 <td bgcolor="red">Sehr hoch</td>
 <td>Es werden veraltete, inkorrekte oder gefälschte personenbezogene Daten genutzt. Datenaktualisierungen oder -korrekturen finden nicht in ausreichendem Maße statt.</td>
@@ -103,7 +103,7 @@ Currently project documentation is available in English and German. If you are i
 <tr>
 <td>P10</td>
 <td>:woman_technologist:</td>
-<td>Unsichere Datenübertragung</td>
+<td>Unsichere Datenüber-tragung</td>
 <td bgcolor="yellow">Mittel</td>
 <td bgcolor="red">Sehr hoch</td>
 <td>Die Datenübermittlung erfolgt nicht auf verschlüsselten und sicheren Kanälen, so dass ein unautorisierter Zugriff nicht verhindert wird. Mechanismen zum Verringern der Angriffsfläche, werden nicht umgesetzt. Hierzu gehört es zu verhindern, dass durch das Verhalten der Webanwendung Rückschlüsse auf Nutzerdaten möglich sind.</td>
