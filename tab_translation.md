@@ -13,9 +13,9 @@ Currently project documentation is available in English and German. If you are i
 <tr>
 <td bgcolor="#D8D8D8" width="64"><b>#</b></td>
 <td bgcolor="#D8D8D8" width="70"><b>Typ</b></td>
-<td bgcolor="#D8D8D8" width="146"><b>Titel</b></td>
-<td bgcolor="#D8D8D8" width="130"><b>Häufigkeit</b></td>
-<td bgcolor="#D8D8D8" width="110"><b>Schaden</b></td>
+<td bgcolor="#D8D8D8" width="160"><b>Titel</b></td>
+<td bgcolor="#D8D8D8" width="120"><b>Häufigkeit</b></td>
+<td bgcolor="#D8D8D8" width="105"><b>Schaden</b></td>
 <td bgcolor="#D8D8D8"><b>Beschreibung</b></td>
 </tr>
 
