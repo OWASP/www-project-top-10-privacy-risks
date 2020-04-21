@@ -23,6 +23,7 @@ Version 1.0 of the OWASP Top 10 Privacy Risks list from 2014. Further informatio
 
 <tr>
 <td>P1</td>
+<td>:woman_technologist:</td>
 <td>Web Application Vulnerabilities</td>
 <td bgcolor="orange">High</td>
 <td bgcolor="red">Very high</td>
@@ -36,6 +37,7 @@ them.</td>
 
 <tr>
 <td>P2</td>
+<td>:woman_technologist::man_office_worker:</td>
 <td>Operator-sided Data Leakage</td>
 <td bgcolor="orange">High</td>
 <td bgcolor="red">Very high</td>
@@ -49,6 +51,7 @@ lack of awareness.</td>
 
 <tr>
 <td>P3</td>
+<td>:woman_technologist::man_office_worker:</td>
 <td>Insufficient Data Breach Response</td>
 <td bgcolor="orange">High</td>
 <td bgcolor="red">Very high</td>
@@ -60,6 +63,7 @@ attempting to limit the leaks.</td>
 
 <tr>
 <td>P4</td>
+<td>:woman_technologist::man_office_worker:</td>
 <td>Insufficient Deletion of Personal Data</td>
 <td bgcolor="red">Very high</td>
 <td bgcolor="orange">High</td>
@@ -69,6 +73,7 @@ termination of the specified purpose or upon request.</td>
 
 <tr>
 <td>P5</td>
+<td>:man_office_worker:</td>
 <td>Non-transparent Policies, Terms and Conditions</td>
 <td bgcolor="red">Very high</td>
 <td bgcolor="orange">High</td>
@@ -80,6 +85,7 @@ non-lawyers.</td>
 
 <tr>
 <td>P6</td>
+<td>:man_office_worker:</td>
 <td>Collection of data not required for the primary purpose</td>
 <td bgcolor="red">Very high</td>
 <td bgcolor="orange">High</td>
@@ -90,6 +96,7 @@ which the user did not provide consent.</td>
 
 <tr>
 <td>P7</td>
+<td>:woman_technologist::man_office_worker:</td>
 <td>Sharing of Data with Third Party</td>
 <td bgcolor="orange">High</td>
 <td bgcolor="orange">High</td>
@@ -102,6 +109,7 @@ social networks buttons), analytics or web bugs (e.g. beacons).</td>
 
 <tr>
 <td>P8</td>
+<td>:woman_technologist::man_office_worker:</td>
 <td>Outdated personal data</td>
 <td bgcolor="orange">High</td>
 <td bgcolor="red">Very high</td>
@@ -111,6 +119,7 @@ correct the data.</td>
 
 <tr>
 <td>P9</td>
+<td>:woman_technologist:</td>
 <td>Missing or insufficient Session Expiration</td>
 <td bgcolor="yellow">Medium</td>
 <td bgcolor="red">Very high</td>
@@ -121,6 +130,7 @@ awareness.</td>
 
 <tr>
 <td>P10</td>
+<td>:woman_technologist:</td>
 <td>Insecure Data Transfer</td>
 <td bgcolor="yellow">Medium</td>
 <td bgcolor="red">Very high</td>
