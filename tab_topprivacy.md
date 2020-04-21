@@ -14,7 +14,7 @@ Version 1.0 of the OWASP Top 10 Privacy Risks list from 2014. Further informatio
 
 <tr>
 <td bgcolor="#D8D8D8" width="64"><b>#</b></td>
-<td bgcolor="#D8D8D8" width="80"><b>Type</b></td>
+<td bgcolor="#D8D8D8" width="76"><b>Type</b></td>
 <td bgcolor="#D8D8D8" width="146"><b>Title</b></td>
 <td bgcolor="#D8D8D8" width="124"><b>Frequency</b></td>
 <td bgcolor="#D8D8D8" width="108"><b>Impact</b></td>
