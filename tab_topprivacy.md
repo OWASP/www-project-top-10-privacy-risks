@@ -24,7 +24,7 @@ Update 2020-04-22: Type has been added to show if risk is :man_office_worker: or
 
 <tr>
 <td>P1</td>
-<td halign="center">:woman_technologist:</td>
+<td><center>:woman_technologist:</center></td>
 <td>Web Application Vulnerabilities</td>
 <td bgcolor="orange">High</td>
 <td bgcolor="red">Very high</td>
