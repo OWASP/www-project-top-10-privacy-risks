@@ -38,7 +38,7 @@ them.</td>
 
 <tr>
 <td>P2</td>
-<td align=center>:woman_technologist::man_office_worker:</td>
+<td align=center>:man_office_worker::woman_technologist:</td>
 <td>Operator-sided Data Leakage</td>
 <td bgcolor="orange">High</td>
 <td bgcolor="red">Very high</td>
