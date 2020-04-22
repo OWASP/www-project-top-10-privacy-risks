@@ -15,7 +15,7 @@ Update 2020-04-22: Type has been added to show if risk is :man_office_worker: or
 
 <tr>
 <td bgcolor="#D8D8D8" width="64"><b>#</b></td>
-<td bgcolor="#D8D8D8" width="76"><b>Type</b></td>
+<td bgcolor="#D8D8D8" width="75"><b>Type</b></td>
 <td bgcolor="#D8D8D8" width="146"><b>Title</b></td>
 <td bgcolor="#D8D8D8" width="124"><b>Frequency</b></td>
 <td bgcolor="#D8D8D8" width="108"><b>Impact</b></td>
@@ -38,7 +38,7 @@ them.</td>
 
 <tr>
 <td>P2</td>
-<td>:woman_technologist::man_office_worker:</td>
+<td align=center>:woman_technologist::man_office_worker:</td>
 <td>Operator-sided Data Leakage</td>
 <td bgcolor="orange">High</td>
 <td bgcolor="red">Very high</td>
@@ -52,7 +52,7 @@ lack of awareness.</td>
 
 <tr>
 <td>P3</td>
-<td>:woman_technologist::man_office_worker:</td>
+<td align=center>:woman_technologist::man_office_worker:</td>
 <td>Insufficient Data Breach Response</td>
 <td bgcolor="orange">High</td>
 <td bgcolor="red">Very high</td>
@@ -64,7 +64,7 @@ attempting to limit the leaks.</td>
 
 <tr>
 <td>P4</td>
-<td>:woman_technologist::man_office_worker:</td>
+<td align=center>:woman_technologist::man_office_worker:</td>
 <td>Insufficient Deletion of Personal Data</td>
 <td bgcolor="red">Very high</td>
 <td bgcolor="orange">High</td>
@@ -74,7 +74,7 @@ termination of the specified purpose or upon request.</td>
 
 <tr>
 <td>P5</td>
-<td>:man_office_worker:</td>
+<td align=center>:man_office_worker:</td>
 <td>Non-transparent Policies, Terms and Conditions</td>
 <td bgcolor="red">Very high</td>
 <td bgcolor="orange">High</td>
@@ -86,7 +86,7 @@ non-lawyers.</td>
 
 <tr>
 <td>P6</td>
-<td>:man_office_worker:</td>
+<td align=center>:man_office_worker:</td>
 <td>Collection of data not required for the primary purpose</td>
 <td bgcolor="red">Very high</td>
 <td bgcolor="orange">High</td>
@@ -97,7 +97,7 @@ which the user did not provide consent.</td>
 
 <tr>
 <td>P7</td>
-<td>:woman_technologist::man_office_worker:</td>
+<td align=center>:woman_technologist::man_office_worker:</td>
 <td>Sharing of Data with Third Party</td>
 <td bgcolor="orange">High</td>
 <td bgcolor="orange">High</td>
@@ -110,7 +110,7 @@ social networks buttons), analytics or web bugs (e.g. beacons).</td>
 
 <tr>
 <td>P8</td>
-<td>:woman_technologist::man_office_worker:</td>
+<td align=center>:woman_technologist::man_office_worker:</td>
 <td>Outdated personal data</td>
 <td bgcolor="orange">High</td>
 <td bgcolor="red">Very high</td>
@@ -120,7 +120,7 @@ correct the data.</td>
 
 <tr>
 <td>P9</td>
-<td>:woman_technologist:</td>
+<td align=center>:woman_technologist:</td>
 <td>Missing or insufficient Session Expiration</td>
 <td bgcolor="yellow">Medium</td>
 <td bgcolor="red">Very high</td>
@@ -131,7 +131,7 @@ awareness.</td>
 
 <tr>
 <td>P10</td>
-<td>:woman_technologist:</td>
+<td align=center>:woman_technologist:</td>
 <td>Insecure Data Transfer</td>
 <td bgcolor="yellow">Medium</td>
 <td bgcolor="red">Very high</td>
