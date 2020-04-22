@@ -9,7 +9,7 @@ tags: example-tag
 
 ## Top 10 Privacy Risks
 Version 1.0 of the OWASP Top 10 Privacy Risks list from 2014. Further information and related countermeasures are provided in [this PDF document](https://owasp.org/www-pdf-archive/OWASP_Top_10_Privacy_Countermeasures_v1.0.pdf).<br />
-Update 2020-04-22: Type has been added to show if risk is :man_office_worker: organizational, :woman_technologist: technical, or both.
+Update 2020-04-22: Type has been added to show if risk is rather :man_office_worker: organizational, :woman_technologist: technical, or both.
 
 <table style="background-color:#FFFFFF;border-collapse:collapse;border:1px solid #000000;color:#000000;width:100%" cellspacing="3" cellpadding="3" border="1">
 
@@ -52,7 +52,7 @@ lack of awareness.</td>
 
 <tr>
 <td>P3</td>
-<td align=center>:woman_technologist::man_office_worker:</td>
+<td align=center>:man_office_worker::woman_technologist:</td>
 <td>Insufficient Data Breach Response</td>
 <td bgcolor="orange">High</td>
 <td bgcolor="red">Very high</td>
@@ -64,7 +64,7 @@ attempting to limit the leaks.</td>
 
 <tr>
 <td>P4</td>
-<td align=center>:woman_technologist::man_office_worker:</td>
+<td align=center>:man_office_worker::woman_technologist:</td>
 <td>Insufficient Deletion of Personal Data</td>
 <td bgcolor="red">Very high</td>
 <td bgcolor="orange">High</td>
@@ -97,7 +97,7 @@ which the user did not provide consent.</td>
 
 <tr>
 <td>P7</td>
-<td align=center>:woman_technologist::man_office_worker:</td>
+<td align=center>:man_office_worker::woman_technologist:</td>
 <td>Sharing of Data with Third Party</td>
 <td bgcolor="orange">High</td>
 <td bgcolor="orange">High</td>
@@ -110,7 +110,7 @@ social networks buttons), analytics or web bugs (e.g. beacons).</td>
 
 <tr>
 <td>P8</td>
-<td align=center>:woman_technologist::man_office_worker:</td>
+<td align=center>:man_office_worker::woman_technologist:</td>
 <td>Outdated personal data</td>
 <td bgcolor="orange">High</td>
 <td bgcolor="red">Very high</td>
