@@ -8,7 +8,8 @@ tags: example-tag
 ---
 
 ## Top 10 Privacy Risks
-Version 1.0 of the OWASP Top 10 Privacy Risks list from 2014. Further information and related countermeasures are provided in [this PDF document](https://owasp.org/www-pdf-archive/OWASP_Top_10_Privacy_Countermeasures_v1.0.pdf).<br />
+Version 1.0 of the OWASP Top 10 Privacy Risks list from 2014. Further information and related countermeasures are provided in [this PDF document](https://owasp.org/www-pdf-archive/OWASP_Top_10_Privacy_Countermeasures_v1.0.pdf).
+
 Update 2020-04-22: Type has been added to show if risk is rather :man_office_worker: organizational, :woman_technologist: technical, or both.
 
 <table style="background-color:#FFFFFF;border-collapse:collapse;border:1px solid #000000;color:#000000;width:100%" cellspacing="3" cellpadding="3" border="1">
