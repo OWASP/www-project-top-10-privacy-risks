@@ -222,6 +222,9 @@ Der Typ gibt an, ob ein Risiko eher :man_office_worker: organisatorisch, :woman_
 </tr>
 </table>
 
+### Vidéo
+[Top 10 des risques pour la vie privée en français (Youtube)](https://youtu.be/babi0T0xQ2Y)
+
 ### Flyer
 [Infoflyer in French](Top_10_Privacy_Risks_French.jpg)
 
