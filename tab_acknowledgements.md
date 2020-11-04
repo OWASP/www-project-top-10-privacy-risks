@@ -13,6 +13,7 @@ The Top 10 Privacy Risk list v1.0 was developed by a team of volunteers. The pri
 - Tim Gough
 - Prof. Hans-Joachim Hof
 - Lukasz Olejnik
+- Guillaume Simard
 - Florian Stahl
 
 ## Sponsors
