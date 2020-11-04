@@ -5,7 +5,7 @@ tab: true
 order: 4
 tags: example-tag
 ---
-Currently project documentation is available in English and German. If you are interested in helping to translate to another language, please contact the project leaders.
+Currently project documentation is available in English, German and French. If you are interested in helping to translate to another language, please contact the project leaders.
 ## German
 ### Top 10 Datenschutzrisiken
 Der Typ gibt an, ob ein Risiko eher :man_office_worker: organisatorisch, :woman_technologist: technisch oder beides ist.
