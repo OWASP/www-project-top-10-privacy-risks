@@ -117,16 +117,16 @@ Der Typ gibt an, ob ein Risiko eher :man_office_worker: organisatorisch, :woman_
 
 
 ## French
-### Top 10 Risques pour la vie privée
+### Top 10 Risques pour la vie privée (sur Internet)
 <!--Der Typ gibt an, ob ein Risiko eher :man_office_worker: organisatorisch, :woman_technologist: technisch oder beides ist.-->
 <table style="background-color:#FFFFFF;border-collapse:collapse;border:1px solid #000000;color:#000000;width:100%" cellspacing="3" cellpadding="3" border="1">
 
 <tr>
 <td bgcolor="#D8D8D8" width="64"><b>#</b></td>
-<td bgcolor="#D8D8D8" width="70"><b>Type</b></td>
+<td bgcolor="#D8D8D8" width="75"><b>Type</b></td>
 <td bgcolor="#D8D8D8" width="160"><b>Titre</b></td>
-<td bgcolor="#D8D8D8" width="120"><b>Fréquence</b></td>
-<td bgcolor="#D8D8D8" width="110"><b>Impact</b></td>
+<td bgcolor="#D8D8D8" width="130"><b>Fréquence</b></td>
+<td bgcolor="#D8D8D8" width="100"><b>Impact</b></td>
 <td bgcolor="#D8D8D8"><b>Description</b></td>
 </tr>
 
