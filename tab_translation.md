@@ -117,8 +117,8 @@ Der Typ gibt an, ob ein Risiko eher :man_office_worker: organisatorisch, :woman_
 
 
 ## French
-### Top 10 Risques pour la vie privée (sur Internet)
-<!--Der Typ gibt an, ob ein Risiko eher :man_office_worker: organisatorisch, :woman_technologist: technisch oder beides ist.-->
+### Top 10 des risques pour la vie privée
+Le type détermine si un risque est :man_office_worker: organisationnel, :woman_technologist: technique ou les deux.
 <table style="background-color:#FFFFFF;border-collapse:collapse;border:1px solid #000000;color:#000000;width:100%" cellspacing="3" cellpadding="3" border="1">
 
 <tr>
