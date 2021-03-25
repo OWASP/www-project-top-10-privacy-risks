@@ -7,11 +7,11 @@ level: 3
 type: documentation
 
 ---
-<b>+++ We are currently working on version 2 and need your experience to make it a success. Please participate in our <a href="https://www.surveymonkey.de/r/XRLQWCQ">survey.</a> +++</b>
+<b>+++ The premilinary (beta) results of version 2 are available now in the <a href="https://docs.google.com/spreadsheets/d/1GstkaCzO7_ok1p4rr1drq0SuPLjg5MlkshG5oS58vAY/edit?usp=sharing">Top 10 Privacy Risks List 2021</a> +++</b>
 
 The OWASP Top 10 Privacy Risks Project provides a top 10 list for privacy risks in web applications and related countermeasures. It covers technological and organizational aspects that focus on real-life risks, not just legal issues. The Project provides tips on how to implement privacy by design in web applications with the aim of helping developers and web application providers to better understand and improve privacy. The list uses the OECD Privacy Guidelines as a framework and can also be used to assess privacy risks associated with specific web applications.
 
-<h2>Top 10 Privacy Risks</h2>
+<h2>Top 10 Privacy Risks 2014</h2>
 <p><a href="Top_10_Risks.png"><img align="right" style="padding: 10px;" width="124px" src="124px-Top_10_Risks.png" /></a></p>
 <pre><code>
     P1    Web Application Vulnerabilities 
