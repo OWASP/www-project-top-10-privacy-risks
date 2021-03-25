@@ -1,5 +1,5 @@
 ### Project Information
-* Version 1.0
+* Version 1.0 (2.0 beta)
 * Lab Project
 * Documentation Project
 
@@ -12,6 +12,7 @@
 * [2016] Countermeasures v1.0 published
 * [2019] Work on v2.0 started
 * [2020] French Translation available
+* [2021] Publication of version 2.0
 
 ### External Links
 - [Video from IPEN workshop at Berlin state parliament](https://www.youtube.com/watch?v=mO7bjmUAq-Q)<br />
