@@ -6,7 +6,15 @@ order: 3
 tags: example-tag
 ---
 ## Volunteers
-The Top 10 Privacy Risk list v1.0 was developed by a team of volunteers. The primary contributors have been:
+The Top 10 Privacy Risk list was developed by a team of volunteers. The primary contributors have been:
+
+### Version 2.0
+- Florian Stahl
+- Abraham Kang
+- Fernando Galves
+- Stefan Burgmair
+
+### Version 1.0
 - Stefan Burgmair
 - R. Jason Cronk
 - Edward Delaporte
