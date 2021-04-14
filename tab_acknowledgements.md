@@ -13,6 +13,7 @@ The Top 10 Privacy Risk list was developed by a team of volunteers. The primary 
 - Abraham Kang
 - Fernando Galves
 - Edward Delaporte
+- Angel Camacho
 - Stefan Burgmair
 
 ### Version 1.0
