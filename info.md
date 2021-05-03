@@ -1,5 +1,5 @@
 ### Project Information
-* Version 1.0 (2.0 beta)
+* Version 2.0
 * Lab Project
 * Documentation Project
 
@@ -7,12 +7,11 @@
 * [Join Google Group](https://groups.google.com/a/owasp.org/forum/#!forum/top-10-privacy-risks-project/join)
 
 ### Timeline
-* [2014] Top 10 Privacy Risks v1.0 published
-* [2015] German Translation available
-* [2016] Countermeasures v1.0 published
-* [2019] Work on v2.0 started
+* [2021] Release of version 2.0
 * [2020] French Translation available
-* [2021] Publication of version 2.0
+* [2016] Countermeasures v1.0 published
+* [2015] German Translation available
+* [2014] Top 10 Privacy Risks v1.0 published
 
 ### External Links
 - [Video from IPEN workshop at Berlin state parliament](https://www.youtube.com/watch?v=mO7bjmUAq-Q)<br />
