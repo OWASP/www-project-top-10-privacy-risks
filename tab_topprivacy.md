@@ -55,7 +55,7 @@ lack of awareness.</td>
 <td>P3</td>
 <td align=center>:man_office_worker::woman_technologist:</td>
 <td>Insufficient Data Breach Response</td>
-<td bgcolor="red">High</td>
+<td bgcolor="orange">High</td>
 <td bgcolor="red">Very high</td>
 <td>Not informing the affected persons (data subjects) about a possible
 breach or data leak, resulting either from intentional or unintentional
@@ -88,7 +88,7 @@ non-lawyers.</td>
 <td>P6</td>
 <td align=center>:man_office_worker::woman_technologist:</td>
 <td>Insufficient Deletion of Personal Data</td>
-<td bgcolor="red">High</td>
+<td bgcolor="orange">High</td>
 <td bgcolor="orange">High</td>
 <td>Failure to effectively and/or timely delete personal data after
 termination of the specified purpose or upon request.</td>
@@ -98,7 +98,7 @@ termination of the specified purpose or upon request.</td>
 <td>P7</td>
 <td align=center>:man_office_worker::woman_technologist:</td>
 <td>Insufficient Data Quality</td>
-<td bgcolor="orange">Medium</td>
+<td bgcolor="yellow">Medium</td>
 <td bgcolor="red">Very high</td>
 <td>The use of outdated, incorrect or bogus user data. Failure to update or
 correct the data.</td>
@@ -128,7 +128,7 @@ awareness.</td>
 <td>P10</td>
 <td align=center>:man_office_worker:</td>
 <td>Collection of data not required for the user-consented purpose</td>
-<td bgcolor="red">High</td>
+<td bgcolor="orange">High</td>
 <td bgcolor="orange">High</td>
 <td>Collecting descriptive, demographic or any other user-related data that
 are not needed for the purposes of the system. Applies also to data for
