@@ -4,7 +4,7 @@ displaytext: Top 10 Privacy Risks
 layout: null
 tab: true
 order: 1
-tags: example-tag
+tags: PrivacyTop10
 ---
 
 ## Top 10 Privacy Risks

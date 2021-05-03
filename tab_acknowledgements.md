@@ -3,7 +3,7 @@ title: Acknowledgements
 layout:  null
 tab: true
 order: 3
-tags: example-tag
+tags: PrivacyTop10
 ---
 ## Volunteers
 The Top 10 Privacy Risk list was developed by a team of volunteers. The primary contributors have been:

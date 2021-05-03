@@ -3,7 +3,7 @@ title: FAQs
 layout:  null
 tab: true
 order: 5
-tags: example-tag
+tags: PrivacyTop10
 ---
 ## Frequently Asked Questions
 ### Why is this project only about web applications and not about any kind of software?

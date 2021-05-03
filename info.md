@@ -1,7 +1,7 @@
 ### Project Information
 * Version 2.0
-* Lab Project
-* Documentation Project
+* <i class="fas fa-flask" style="color:#FFA500;"></i> Lab Project
+* <i class="fas fa-book" style="color:#233e81;"></i> Documentation
 
 ### Mailing List
 * [Join Google Group](https://groups.google.com/a/owasp.org/forum/#!forum/top-10-privacy-risks-project/join)
