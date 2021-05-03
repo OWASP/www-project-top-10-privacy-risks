@@ -8,7 +8,7 @@ tags: example-tag
 ---
 
 ## Top 10 Privacy Risks
-Version 1.0 of the OWASP Top 10 Privacy Risks list from 2014. Further information and related countermeasures are provided in [this PDF document](https://owasp.org/www-pdf-archive/OWASP_Top_10_Privacy_Countermeasures_v1.0.pdf).
+Version 2.0 of the OWASP Top 10 Privacy Risks list from 2021. Further information and related countermeasures will be provided soon.
 
 The type shows if a risk is rather :man_office_worker: organizational, :woman_technologist: technical, or both.
 
@@ -55,7 +55,7 @@ lack of awareness.</td>
 <td>P3</td>
 <td align=center>:man_office_worker::woman_technologist:</td>
 <td>Insufficient Data Breach Response</td>
-<td bgcolor="orange">High</td>
+<td bgcolor="red">High</td>
 <td bgcolor="red">Very high</td>
 <td>Not informing the affected persons (data subjects) about a possible
 breach or data leak, resulting either from intentional or unintentional
@@ -65,12 +65,11 @@ attempting to limit the leaks.</td>
 
 <tr>
 <td>P4</td>
-<td align=center>:man_office_worker::woman_technologist:</td>
-<td>Insufficient Deletion of Personal Data</td>
+<td align=center>:man_office_worker:</td>
+<td>Consent on Everything</td>
 <td bgcolor="red">Very high</td>
 <td bgcolor="orange">High</td>
-<td>Failure to effectively and/or timely delete personal data after
-termination of the specified purpose or upon request.</td>
+<td>Aggregation or inappropriate use of consent to legitimate processing. Consent is "on everything" and not collected separately for each purpose (e.g. use of website and profiling for advertising).</td>
 </tr>
 
 <tr>
@@ -87,40 +86,26 @@ non-lawyers.</td>
 
 <tr>
 <td>P6</td>
-<td align=center>:man_office_worker:</td>
-<td>Collection of data not required for the primary purpose</td>
-<td bgcolor="red">Very high</td>
+<td align=center>:man_office_worker::woman_technologist:</td>
+<td>Insufficient Deletion of Personal Data</td>
+<td bgcolor="red">High</td>
 <td bgcolor="orange">High</td>
-<td>Collecting descriptive, demographic or any other user-related data that
-are not needed for the purposes of the system. Applies also to data for
-which the user did not provide consent.</td>
+<td>Failure to effectively and/or timely delete personal data after
+termination of the specified purpose or upon request.</td>
 </tr>
 
 <tr>
 <td>P7</td>
 <td align=center>:man_office_worker::woman_technologist:</td>
-<td>Sharing of Data with Third Party</td>
-<td bgcolor="orange">High</td>
-<td bgcolor="orange">High</td>
-<td>Providing user data to any third-party, without obtaining the user’s
-consent. Sharing results either due to transfer or exchanging for a
-monetary compensation or otherwise due to inappropriate use of
-third-party resources included in the web site like widgets (e.g. maps,
-social networks buttons), analytics or web bugs (e.g. beacons).</td>
-</tr>
-
-<tr>
-<td>P8</td>
-<td align=center>:man_office_worker::woman_technologist:</td>
-<td>Outdated personal data</td>
-<td bgcolor="orange">High</td>
+<td>Insufficient Data Quality</td>
+<td bgcolor="orange">Medium</td>
 <td bgcolor="red">Very high</td>
 <td>The use of outdated, incorrect or bogus user data. Failure to update or
 correct the data.</td>
 </tr>
 
 <tr>
-<td>P9</td>
+<td>P8</td>
 <td align=center>:woman_technologist:</td>
 <td>Missing or insufficient Session Expiration</td>
 <td bgcolor="yellow">Medium</td>
@@ -131,16 +116,23 @@ awareness.</td>
 </tr>
 
 <tr>
-<td>P10</td>
-<td align=center>:woman_technologist:</td>
-<td>Insecure Data Transfer</td>
-<td bgcolor="yellow">Medium</td>
-<td bgcolor="red">Very high</td>
-<td>Failure to provide data transfers over encrypted and secured channels,
-excluding the possibility of data leakage. Failure of enforcing
-mechanisms limiting the leak surface, e.g. allowing to infer any user
-data out of the mechanics of Web application operation.</td>
+<td>P9</td>
+<td align=center>:man_office_worker::woman_technologist:</td>
+<td>Inability of users to access and modify data</td>
+<td bgcolor="orange">High</td>
+<td bgcolor="orange">High</td>
+<td>Users do not have the ability to access, change or delete data related to them.</td>
 </tr>
-</table>
 
-Note: The values between 0 to 3 used for frequency and impact rating were replaced by a textual description: 0-1: Low, 1-1.5: Medium, 1.5-2: High, > 2: Very high
+<tr>
+<td>P10</td>
+<td align=center>:man_office_worker:</td>
+<td>Collection of data not required for the user-consented purpose</td>
+<td bgcolor="red">High</td>
+<td bgcolor="orange">High</td>
+<td>Collecting descriptive, demographic or any other user-related data that
+are not needed for the purposes of the system. Applies also to data for
+which the user did not provide consent.</td>
+</tr>
+
+Note: The values between 0 to 3 used for frequency and impact rating were replaced by a textual description: 0-1.5: Low, 1.5-1.9: Medium, 1.9-2.3: High, > 2.3: Very high
