@@ -134,5 +134,5 @@ awareness.</td>
 are not needed for the purposes of the system. Applies also to data for
 which the user did not provide consent.</td>
 </tr>
-
+</table>
 Note: The values between 0 to 3 used for frequency and impact rating were replaced by a textual description: 0-1.5: Low, 1.5-1.9: Medium, 1.9-2.3: High, > 2.3: Very high
