@@ -3,7 +3,7 @@ title: Participate
 layout:  null
 tab: true
 order: 2
-tags: example-tag
+tags: PrivacyTop10
 ---
 
 ## Participate
