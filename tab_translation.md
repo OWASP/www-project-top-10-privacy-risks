@@ -34,7 +34,7 @@ Le type détermine si un risque est :man_office_worker: organisationnel, :woman_
 [Link to slidedeck](https://speakerdeck.com/owaspjapan/introducing-owasp-top10-privacy-risks-number-owasp-night-21th)
 
 ## Spanish
-### Top 10 Riesgos de privacidad 
+### Top 10 Riesgos de privacidad (2.0)
 El tipo determina si un riesgo es :man_office_worker: organizacional , :woman_technologist: técnico, o ambos. 
 
 {% include privacytop10_es.html %}
