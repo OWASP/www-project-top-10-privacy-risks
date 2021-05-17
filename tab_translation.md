@@ -5,7 +5,7 @@ tab: true
 order: 4
 tags: PrivacyTop10
 ---
-<b>+++ Currently we are translating version 2.0 to German, French and Portuguese. The translations below still show version 1.0 +++</b><br>
+<b>+++ Currently we are translating version 2.0 to German, French, Portuguese and Spanish. The translations below still show version 1.0 +++</b><br>
 <!--Currently project documentation is available in English, German and French.-->
 If you are interested in helping to translate to another language, please contact the project leaders.
 ## German
@@ -32,3 +32,10 @@ Le type détermine si un risque est :man_office_worker: organisationnel, :woman_
 
 ## Japanese
 [Link to slidedeck](https://speakerdeck.com/owaspjapan/introducing-owasp-top10-privacy-risks-number-owasp-night-21th)
+
+## Spanish
+### Top 10 Riesgos de privacidad (2.0)
+El tipo determina si un riesgo es :man_office_worker: organizacional , :woman_technologist: técnico, o ambos. 
+
+{% include privacytop10_es.html %}
+
