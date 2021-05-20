@@ -5,7 +5,7 @@ tab: true
 order: 4
 tags: PrivacyTop10
 ---
-Currently project documentation is available in English, German, Spanish, Japanese and French. Translation to Portuguese and Arabic is ongoing.<br>
+Currently project documentation is available in English, German, Spanish, Japanese and French. Translation to Portuguese and Arabic is ongoing.
 If you are interested in helping to translate to any other language, please contact the project leaders.
 ## German
 ### Top 10 Datenschutzrisiken
