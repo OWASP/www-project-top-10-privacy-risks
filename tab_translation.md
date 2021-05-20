@@ -30,7 +30,7 @@ Le type détermine si un risque est :man_office_worker: organisationnel, :woman_
 [Infoflyer in French](Top_10_Privacy_Risks_French.jpg)
 
 ## Japanese
-### トップ10のプラバシーリスク バージョン2.0 日本語訳
+### トップ10 プライバシーリスク バージョン2.0 日本語訳
 タイプはリスクが組織的<img loading="lazy" height="20" width="20" alt="：man_office_worker：" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bc.png">、技術的<img loading="lazy" height="20" width="20" alt="：woman_technologist：" src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png">、またはその両方であるかどうかを示しています。
 
 {% include privacytop10_jp.html %}
