@@ -31,7 +31,7 @@ Le type détermine si un risque est :man_office_worker: organisationnel, :woman_
 
 ## Japanese
 ### OWASPトップ10のプラバシーリスク バージョン2.0 日本語訳
-タイプはリスクが組織的 :man_office_worker：、技術的 :woman_technologist：、またはその両方であるかどうかを示しています。
+タイプはリスクが組織的<img loading="lazy" height="20" width="20" alt="：man_office_worker：" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bc.png">、技術的<img loading="lazy" height="20" width="20" alt="：woman_technologist：" src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png">、またはその両方であるかどうかを示しています。<br>
 {% include privacytop10_jp.html %}
 
 ## Spanish
