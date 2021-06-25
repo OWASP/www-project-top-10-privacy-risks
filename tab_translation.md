@@ -41,3 +41,8 @@ El tipo determina si un riesgo es :man_office_worker: organizacional , :woman_te
 
 {% include privacytop10_es.html %}
 
+## Brazilian Portuguese
+### Top 10 ricos de privacidade (2.0)
+O tipo determina se um risco é :man_office_worker: organizacional , :woman_technologist: técnico ou ambos. 
+
+{% include privacytop10_ptbr.html %}
