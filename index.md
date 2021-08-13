@@ -33,12 +33,12 @@ Detailed information is provided in the Top 10 Privacy Risks tab.
 
 ## Quick Download
 
-Important note: The following downloads show results and countermeasures for version 1.0 from 2014. Downloads for version 2.0 will be provided soon.<br>
+* [Presentation from OWASP Roundtable "Stammtisch" Hamburg 2021 (PDF)](https://owasp.org/www-chapter-germany/stammtische/hamburg/assets/slides/2021-08-05_OWASP%20Top%2010%20Privacy%20Risks%20v2.0.pdf)
 * [Top 10 Privacy Risks Countermeasures v1.0 (PDF)](/www-pdf-archive/OWASP_Top_10_Privacy_Countermeasures_v1.0.pdf)
-* [Top 10 Privacy Risks Presentation (PPTX)](/assets/OWASP_Top10PrivacyRisks_20150529.pptx)
+<!--* [Top 10 Privacy Risks Presentation (PPTX)](/assets/OWASP_Top10PrivacyRisks_20150529.pptx)
 * [Results presentation at German OWASP Day 2014](/www-pdf-archive/OWASPTop10PrivacyRisks_20141209.pdf)
 * [Presentation from IAPP Global Privacy Summit 2015](/www-pdf-archive/Top10PrivacyRisks_IAPP_Summit_2015.pdf)
-* [Presentation of countermeasures from IAPP Data Protection Intensive 2016](/www-pdf-archive/Presentation_HowToBoostPrivacy_IAPP_Intensive_2016.pdf)
+* [Presentation of countermeasures from IAPP Data Protection Intensive 2016](/www-pdf-archive/Presentation_HowToBoostPrivacy_IAPP_Intensive_2016.pdf)-->
   
 ## Licensing
 
