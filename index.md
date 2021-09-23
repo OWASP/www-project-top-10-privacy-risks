@@ -33,6 +33,7 @@ Detailed information is provided in the Top 10 Privacy Risks tab.
 
 ## Quick Download
 
+* [Top 10 Privacy Risks Presentation v2.0 (PPTX)](/assets/OWASP Top 10 Privacy Risks v2.pptx)
 * [Presentation from OWASP Roundtable "Stammtisch" Hamburg 2021 (PDF)](https://owasp.org/www-chapter-germany/stammtische/hamburg/assets/slides/2021-08-05_OWASP%20Top%2010%20Privacy%20Risks%20v2.0.pdf)
 * [Top 10 Privacy Risks Countermeasures v1.0 (PDF)](/www-pdf-archive/OWASP_Top_10_Privacy_Countermeasures_v1.0.pdf)
 <!--* [Top 10 Privacy Risks Presentation (PPTX)](/assets/OWASP_Top10PrivacyRisks_20150529.pptx)
