@@ -23,7 +23,7 @@ The following table shows version 2.0 of the OWASP Top 10 Privacy Risks and comp
  P4    New   Consent on Everything 
  P5    5     Non-transparent Policies, Terms and Conditions 
  P6    4     Insufficient Deletion of User Data 
- P7    New   Insufficient Data Quality 
+ P7    New   Insufficient Data Quality
  P8    9     Missing or Insufficient Session Expiration 
  P9    13    Inability of Users to Access and Modify Data 
  P10   6     Collection of Data Not Required for the User-Consented Purpose
