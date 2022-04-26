@@ -14,7 +14,7 @@
 * [2014] Top 10 Privacy Risks v1.0 published
 
 ### External Links
-- [Video from IPEN workshop at Berlin state parliament](https://www.youtube.com/watch?v=mO7bjmUAq-Q)<br />
+- [Video from OWASP 20th Anniversary Conference (Version 2.0)](https://youtu.be/MtDHjHiERo8)<br />
 - [Video from panel discussion at CPDP 2015](https://www.youtube.com/watch?v=6SEdnWlSZyk)<br />
 - [OECD Privacy Guidelines](http://www.oecd.org/sti/ieconomy/2013-oecd-privacy-guidelines.pdf)<br />
 - [Internet Privacy Engineering Network - IPEN](https://edps.europa.eu/data-protection/ipen-internet-privacy-engineering-network_en)<br />
