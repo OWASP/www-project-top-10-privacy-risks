@@ -18,7 +18,7 @@ Sign up to our [mailing list](https://groups.google.com/a/owasp.org/forum/#!foru
 ## Discussions and Documentation
 To avoid overwriting issues we use Google Docs for our discussions.
 ### Ongoing
-[Countermeasures v2.0](https://docs.google.com/document/d/1s6RLhyLi02-3LMOxC8lBQEGhVrqKT0QZYN1X4aBqSsM/edit?usp=sharing)<br>
+[Countermeasures v2.1](https://docs.google.com/document/d/1s6RLhyLi02-3LMOxC8lBQEGhVrqKT0QZYN1X4aBqSsM/edit?usp=sharing)<br>
 ### Closed discussions and documents
 [Calculation of the complete Privacy Risks list v2.0](https://docs.google.com/spreadsheets/d/1GstkaCzO7_ok1p4rr1drq0SuPLjg5MlkshG5oS58vAY/edit?usp=sharing)<br>
 [Impact Rating 2020](https://docs.google.com/document/d/1VuusvZnhHpWvmPFeAovM68iB_Do3XFZCH2EsITGuAKg/edit)<br>
