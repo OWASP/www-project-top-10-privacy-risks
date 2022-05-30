@@ -7,9 +7,9 @@
 * [Join Google Group](https://groups.google.com/a/owasp.org/forum/#!forum/top-10-privacy-risks-project/join)
 
 ### Timeline
+* [2022] Countermeasures v2.0 published
 * [2021] Release of version 2.0
 * [2020] French Translation available
-* [2016] Countermeasures v1.0 published
 * [2015] German Translation available
 * [2014] Top 10 Privacy Risks v1.0 published
 
