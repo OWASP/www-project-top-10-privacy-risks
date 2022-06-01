@@ -18,6 +18,7 @@ The Top 10 Privacy Risk list was developed by a team of volunteers. The primary 
 - Ramón Salado
 - Tetsuya Nihonmatsu
 - Shoichi Nakata
+- Eyal Estrin
 
 ### Version 1.0
 - Stefan Burgmair
